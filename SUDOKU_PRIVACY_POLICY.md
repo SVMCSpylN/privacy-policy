@@ -1,75 +1,163 @@
-# Privacy Policy for Sudoku Daily
+# Privacy Policy / Chính sách quyền riêng tư
 
-Effective date: July 6, 2026
+Effective date / Ngày hiệu lực: July 14, 2026
 
-Sudoku Daily is a Sudoku puzzle game built for offline play, daily challenges, optional Google account sign-in, optional cloud sync, optional online leaderboard, and ads.
+## English
 
-## Information We Collect
+Sudoku Daily is a Sudoku puzzle game. You can play the main game offline without creating an account. Some optional features, such as Google sign-in, cloud sync, online leaderboard, rewarded ads, and banner ads, need network access.
 
-Sudoku Daily can be played without creating an account. When you do not sign in, gameplay data is stored locally on your device.
+### Information we use
 
-If you choose to sign in with Google through Firebase Authentication, the app may use your Firebase user identifier, Google account profile name, email address, and related sign-in information needed to provide cloud sync, online leaderboard, device transfer, and official ranking features.
+If you play as a guest, most gameplay data stays on your device.
 
-The app may store or sync the following gameplay data:
+If you sign in with Google, Sudoku Daily may use information needed for account features, including:
+
+- Firebase user ID.
+- Google display name.
+- Google profile photo.
+- Email address linked to the sign-in account.
+
+The app may store gameplay data such as:
 
 - Saved puzzle progress.
-- Game settings such as language, theme, sound, vibration, and color preset.
-- Daily Challenge progress, streaks, and streak freeze status.
-- Local leaderboard entries such as mode, difficulty, completion time, mistakes, hints, and completion date.
-- Online leaderboard entries such as mode, difficulty, completion time, mistakes, hints, completion date, and display name from the signed-in Google account.
+- Language, theme, sound, vibration, and other settings.
+- Daily Challenge progress and streak data.
+- Game results used for local records and online leaderboard.
 
-## Ads and Third-Party Services
+Leaderboard results may include game mode, difficulty, completion time, remaining lives, remaining hints, completion date, display name, and profile photo.
 
-Sudoku Daily uses Google Mobile Ads / AdMob to show banner ads and rewarded ads. AdMob may collect device, advertising, usage, diagnostic, and approximate location data according to Google's policies and the choices available on your device.
+### Why we use this information
 
-Sudoku Daily uses Firebase services for optional sign-in, cloud sync, and online leaderboard:
-
-- Firebase Authentication.
-- Cloud Firestore.
-
-These services are provided by Google and may process data according to Google's privacy practices.
-
-## How We Use Information
-
-We use data to:
+We use this information to:
 
 - Save and restore your game progress.
-- Keep your settings and daily progress.
-- Provide optional cloud sync.
-- Provide optional online leaderboard.
-- Show ads and rewarded ads.
-- Improve app reliability and gameplay functionality.
+- Keep your settings.
+- Sync your data across devices when you sign in.
+- Show your score on the online leaderboard.
+- Let you recover your progress on a new device.
+- Show banner ads and rewarded ads.
+- Keep the app working reliably.
 
-## Data Sharing
+### Ads and Google services
+
+Sudoku Daily uses Google AdMob for banner ads and rewarded ads. AdMob may process device, advertising, usage, diagnostic, and approximate location data according to Google's policies and your device settings.
+
+Sudoku Daily uses Firebase Authentication and Cloud Firestore for optional sign-in, cloud sync, and online leaderboard. These services are provided by Google.
+
+### Data sharing
 
 We do not sell your personal data.
 
-Data may be processed by third-party service providers used by the app, including Google Firebase and Google AdMob, for the purposes described above.
+Data may be processed by Google services used by the app, including Firebase and AdMob, only for the features described in this policy.
 
-## Offline Use
+### Offline play
 
-Core Sudoku gameplay works offline and can be played as a guest. Cloud sync, online leaderboard, official ranking, account transfer, and ads require network access.
+Core Sudoku gameplay works offline. Guest play does not require a Google account. Cloud sync, online leaderboard, account transfer, rewarded ads, and banner ads require network access.
 
-## Data Retention and Deletion
+### Data deletion
 
-Local data remains on your device until you clear app data or uninstall the app.
+You can delete your online account in the app:
 
-Cloud data is associated with your signed-in Google/Firebase account. If you want cloud data deleted, contact the developer with your request and enough information to identify the related account or leaderboard entry.
+Settings > Delete account
 
-## Children
+This removes your Firebase account for Sudoku Daily, cloud sync data, and online leaderboard scores. Local data on your current device is kept unless you clear app data or uninstall the app.
 
-Sudoku Daily is intended for a general audience puzzle-game experience. The app does not knowingly request personal information from children.
+For more details, see `ACCOUNT_DELETION.md`.
 
-## Security
+### Children
 
-We use Firebase and Google services that support encrypted data transfer. No method of electronic storage or transmission is completely secure, but we use standard platform services for authentication, storage, ads, and network communication.
+Sudoku Daily is a general-audience puzzle game. The app does not knowingly ask children to provide personal information.
 
-## Changes to This Policy
+### Security
 
-We may update this Privacy Policy when the app changes. The updated version should be published with a new effective date.
+Sudoku Daily uses Firebase and Google services that support encrypted network communication. No system is perfectly secure, but we use standard platform services for account sign-in, cloud storage, ads, and network communication.
 
-## Contact
+### Changes
 
-Developer contact:
+We may update this policy when the app changes. The latest version should include a new effective date.
 
-- Email: dev.spyln@gmail.com
+### Contact
+
+Developer email:
+
+dev.spyln@gmail.com
+
+## Tiếng Việt
+
+Sudoku Daily là trò chơi giải đố Sudoku. Bạn có thể chơi các chức năng chính khi offline mà không cần tạo tài khoản. Một số chức năng tùy chọn như đăng nhập Google, đồng bộ đám mây, bảng xếp hạng online, quảng cáo thưởng và quảng cáo banner cần kết nối mạng.
+
+### Thông tin ứng dụng sử dụng
+
+Nếu bạn chơi ở chế độ khách, phần lớn dữ liệu chơi chỉ được lưu trên thiết bị của bạn.
+
+Nếu bạn đăng nhập bằng Google, Sudoku Daily có thể sử dụng các thông tin cần thiết cho chức năng tài khoản, bao gồm:
+
+- Mã người dùng Firebase.
+- Tên hiển thị Google.
+- Ảnh đại diện Google.
+- Email gắn với tài khoản đăng nhập.
+
+Ứng dụng có thể lưu dữ liệu chơi như:
+
+- Tiến trình ván đang chơi.
+- Ngôn ngữ, giao diện, âm thanh, rung và các cài đặt khác.
+- Tiến trình Thử thách hằng ngày và chuỗi ngày chơi.
+- Kết quả ván chơi dùng cho thành tích cá nhân và bảng xếp hạng online.
+
+Kết quả trên bảng xếp hạng có thể gồm chế độ chơi, độ khó, thời gian hoàn thành, số mạng còn lại, số gợi ý còn lại, ngày hoàn thành, tên hiển thị và ảnh đại diện.
+
+### Vì sao ứng dụng dùng thông tin này
+
+Chúng tôi dùng thông tin này để:
+
+- Lưu và khôi phục tiến trình chơi.
+- Giữ cài đặt của bạn.
+- Đồng bộ dữ liệu giữa các thiết bị khi bạn đăng nhập.
+- Hiển thị điểm của bạn trên bảng xếp hạng online.
+- Giúp bạn khôi phục tiến trình trên thiết bị mới.
+- Hiển thị quảng cáo banner và quảng cáo thưởng.
+- Giữ ứng dụng hoạt động ổn định.
+
+### Quảng cáo và dịch vụ Google
+
+Sudoku Daily dùng Google AdMob để hiển thị quảng cáo banner và quảng cáo thưởng. AdMob có thể xử lý dữ liệu thiết bị, quảng cáo, mức sử dụng, chẩn đoán và vị trí gần đúng theo chính sách của Google và cài đặt trên thiết bị của bạn.
+
+Sudoku Daily dùng Firebase Authentication và Cloud Firestore cho các chức năng tùy chọn như đăng nhập, đồng bộ đám mây và bảng xếp hạng online. Các dịch vụ này được cung cấp bởi Google.
+
+### Chia sẻ dữ liệu
+
+Chúng tôi không bán dữ liệu cá nhân của bạn.
+
+Dữ liệu có thể được xử lý bởi các dịch vụ Google mà ứng dụng sử dụng, bao gồm Firebase và AdMob, chỉ cho các chức năng đã mô tả trong chính sách này.
+
+### Chơi offline
+
+Các chức năng Sudoku chính hoạt động offline. Chế độ khách không yêu cầu tài khoản Google. Đồng bộ đám mây, bảng xếp hạng online, chuyển dữ liệu sang thiết bị mới, quảng cáo thưởng và quảng cáo banner cần kết nối mạng.
+
+### Xóa dữ liệu
+
+Bạn có thể xóa tài khoản online trong ứng dụng:
+
+Cài đặt > Xóa tài khoản
+
+Thao tác này xóa tài khoản Firebase dùng cho Sudoku Daily, dữ liệu đồng bộ đám mây và điểm xếp hạng online. Dữ liệu cục bộ trên thiết bị hiện tại vẫn được giữ, trừ khi bạn tự xóa dữ liệu ứng dụng hoặc gỡ ứng dụng.
+
+Xem thêm chi tiết trong `ACCOUNT_DELETION.md`.
+
+### Trẻ em
+
+Sudoku Daily là trò chơi giải đố dành cho người dùng phổ thông. Ứng dụng không cố ý yêu cầu trẻ em cung cấp thông tin cá nhân.
+
+### Bảo mật
+
+Sudoku Daily dùng Firebase và các dịch vụ Google hỗ trợ truyền dữ liệu được mã hóa. Không có hệ thống nào an toàn tuyệt đối, nhưng ứng dụng sử dụng các dịch vụ nền tảng tiêu chuẩn cho đăng nhập, lưu trữ đám mây, quảng cáo và kết nối mạng.
+
+### Thay đổi chính sách
+
+Chúng tôi có thể cập nhật chính sách này khi ứng dụng thay đổi. Phiên bản mới nhất sẽ có ngày hiệu lực mới.
+
+### Liên hệ
+
+Email nhà phát triển:
+
+dev.spyln@gmail.com
